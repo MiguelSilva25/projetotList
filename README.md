@@ -6,3 +6,5 @@
 - Nome do Curso: Ciência de dados.
 
 - Data de Aniversário: dd/mm/aaaa.
+
+ #### Arquivos estão app, app.component.html, app.component.ts e app.component.scss e a execução do desenvolvimento estão nesses arquivos.
