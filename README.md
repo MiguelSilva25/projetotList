@@ -3,6 +3,6 @@
 
 - Ru: Registro.
 
-- Nome: do Curso: Ciência de dados.
+- Nome do Curso: Ciência de dados.
 
 - Data de Aniversário: dd/mm/aaaa.
